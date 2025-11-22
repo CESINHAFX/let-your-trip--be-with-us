@@ -1,0 +1,42 @@
+{
+  "name": "deixe-sua-viagem-conosco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ./project_root -p 5500",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CESINHAFX/deixe-sua-viagem-conosco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CESINHAFX/deixe-sua-viagem-conosco/issues"
+  },
+  "homepage": "https://github.com/CESINHAFX/deixe-sua-viagem-conosco#readme",
+  "dependencies": {
+    "fuse.js": "^7.1.0"
+  },
+  "devDependencies": {
+    "@eslint/css": "^0.14.1",
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.39.1",
+    "@eslint/json": "^0.13.2",
+    "@eslint/markdown": "^7.5.1",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-html": "^8.1.3",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-promise": "^7.2.1",
+    "globals": "^16.5.0",
+    "prettier": "^3.6.2",
+    "stylelint-config-standard": "^39.0.1"
+  }
+}
